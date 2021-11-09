@@ -4,3 +4,5 @@ Output dari program ini adalah tanggal transaksi dan berapa jumlah Bitcoin yang 
 Format Input
 Baris pertama berisi tanggal transaksi
 Baris kedua berisi bulan transaksi
+Baris ketiga berisi tahun transaksi
+
