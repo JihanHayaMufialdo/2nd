@@ -4,12 +4,6 @@ using namespace std;
 
 int main (){
 	
-	/*
-	NAMA  :  JIHAN HAYA MUFIALDO
-	NPM   :  2117051095
-	KELAS :  B
-	*/
-	
 	system ("COLOR 5");
 	double x;
 	
@@ -21,7 +15,7 @@ int main (){
 	         c = harga saat ini        
 	*/
 
-    //kreasi	
+        //kreasi	
 	cout << "  PROGRAM UNTUK MENENTUKAN BESARAN KENAIKAN SERTA PENURUNAN HARGA BITCOIN DARI WAKTU PEMBELIAN"   << endl;
 	cout << "================================================================================================" << endl;
 	cout << ""                                                                                                 << endl;
