@@ -18,3 +18,11 @@ Contoh Output 1
 Kenaikan/Penurunan : 100%
 Keutungan/Kerugian  : 350 juta
 
+Contoh Input 2
+0.5
+500000000
+100000000
+
+Contoh Output 2
+Kenaikan/Penurunan : -80%
+Keutungan/Kerugian  : -200 juta
