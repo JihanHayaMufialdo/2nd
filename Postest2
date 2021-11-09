@@ -1,0 +1,20 @@
+Setelah melakukan pembelian Bitcoin pada sesi pretest. Sekarang kita membuat program lanjutan. Buatlah sebuah program untuk menentukan besaran kenaikan serta penurunan harga Bitcoin dari waktu pembelian. Input dari program ini adalah jumlah bitcoin dibeli, harga pembelian, dan harga saat ini. Output untuk program ini adalah besaran kenaikan/penurunan harga bitcoin dan total keuntungan/kerugiannya (dalam BTC).
+
+Format Input
+Baris pertama jumlah bitcoin dibeli
+Baris kedua harga pembelian
+Baris ketiga harga saat ini
+
+Format Output
+Baris pertama besaran kenaikan/penurunan (dalam %)
+Baris kedua besaran keuntungan/kerugian (dalam juta)
+
+Contoh Input 1
+1
+350000000
+700000000
+
+Contoh Output 1
+Kenaikan/Penurunan : 100%
+Keutungan/Kerugian  : 350 juta
+
