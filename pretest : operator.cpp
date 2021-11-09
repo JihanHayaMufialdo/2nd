@@ -8,7 +8,7 @@ double x;
 
 //kreasi
 cout << "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ TRANSAKSI KONVERSI MATA UANG RUPIAH KE BITCOIN +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+" << endl;
-cout << ""                                                                                                               << endl;
+cout <<                                                                                                                     endl;
 
 //TIPEDATA
 int    tanggaltransaksi                                                                                                         ;
@@ -21,7 +21,7 @@ float  hargabitcoin                                                             
 cout << "Harap Masukkan Tanggal, Bulan, Tahun Transaksi Anda, serta Jumlah Uang Anda dalam Rupiah, dan Harga 1 Bitcoin"  << endl;
 cout << "--------------------------------------------"                                                                   << endl;
 cout << "INSTRUKSI : MASUKKAN DALAM 5 BARIS BERURUTAN"                                                                   << endl;
-cout << ""                                                                                                               << endl;
+cout <<                                                                                                                     endl;
 
 //INPUT
 cin  >> tanggaltransaksi                                                                                                        ; 
@@ -31,16 +31,16 @@ cin  >> jumlahuang                                                              
 cin  >> hargabitcoin                                                                                                            ;
 
 //kreasi
-cout << ""                                                                                                               << endl;
+cout <<                                                                                                                     endl;
 cout << "+++++++++ TANGGAL TRANSAKSI DAN JUMLAH BITCOIN ANDA +++++++++"                                                  << endl;
-cout << ""                                                                                                               << endl;
+cout <<                                                                                                                     endl;
 
 //OUTPUT
 cout << "Tanggal Transaksi   :   " << tanggaltransaksi << " " << bulantransaksi << " " << tahuntransaksi                 << endl;
 cout << "Jumlah Bitcoin      :   " << jumlahuang/hargabitcoin << " Bitcoin"                                              << endl;
 
 //kreasi
-cout << ""                                                                                                               << endl;
+cout <<                                                                                                                     endl;
 cout << "+++++++++++++++++++++++ TERIMA KASIH ++++++++++++++++++++++++"                                                  << endl;
 
 getch();
