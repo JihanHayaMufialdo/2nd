@@ -1,1 +1,17 @@
 Operator pembanding adalah operator untuk memabndingkan dua buah nilai. Operator ini juga dikenal dengan operator relasi.
+
+==============================================
+|        NAMA OPERATOR         |    SIMBOL   |
+==============================================
+|         Lebih Besar          |      >      |
+----------------------------------------------
+|         Lebih Kecil          |      <      |
+----------------------------------------------
+|         Sama Dengan          |      ==     |
+----------------------------------------------
+|       Tidak Sama dengan      |      !=     |
+----------------------------------------------
+|    Lebih Besar Sama dengan   |      >=     |
+----------------------------------------------
+|    Lebih Kecil Sama dengan   |      <=     |
+----------------------------------------------
