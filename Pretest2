@@ -2,3 +2,4 @@ Buatlah sebuah program kalkulator konversi mata uang rupiah ke aset digital Bitc
 Output dari program ini adalah tanggal transaksi dan berapa jumlah Bitcoin yang didapat dari hasil konversi.
 
 Format Input
+Baris pertama berisi tanggal transaksi
