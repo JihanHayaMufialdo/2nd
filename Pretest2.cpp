@@ -2,8 +2,7 @@
 #include <conio.h>
 using namespace std;
 int main (){
-	
-	
+		
 /* 
    NAMA  : JIHAN HAYA MUFIALDO
    NPM   : 2117051095
