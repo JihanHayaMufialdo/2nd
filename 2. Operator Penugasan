@@ -1,1 +1,27 @@
+Operator penugasan (Assignment Operator) merupakan operator untuk meberikan tugas pada variabel. Biasanya untuk mengisi nilai.
 
+================================================
+|         NAMA OPERATOR         |    SIMBOL    |
+================================================
+|        Pengisian Nilai        |      =       |
+------------------------------------------------
+|    Pengisian dan Penambahan   |      +=      |
+------------------------------------------------
+|    Pengisian dan Pengurangan  |      -=      |
+------------------------------------------------
+|    Pengisian dan Perkalian    |      *=      |
+------------------------------------------------
+|    Pengisian dan Pembagian    |      /=      |
+------------------------------------------------
+|    Pengisian dan Sisa bagi    |      %=      |
+------------------------------------------------
+|    Pengisian dan shift left   |      <<=     |
+------------------------------------------------
+|   Pengisian dan shift right   |      >>=     |
+------------------------------------------------
+|   Pengisian dan bitwise AND	  |      &=      |
+------------------------------------------------
+|   Pengisian dan bitwise OR	  |      |=      |
+------------------------------------------------
+|   Pengisian dan bitwise XOR	  |      ^=      |
+------------------------------------------------
