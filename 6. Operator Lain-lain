@@ -1,9 +1,13 @@
-
-
-
-
-Alamat memori	&	untuk mengambil alamat memori
-Pointer	*	untuk membuat pointer
-Ternary	? :	untuk membuat kondisi
-Increment	++	untuk menambah 1
-Decrement	--	untuk mengurangi 1
+=====================================================================================
+|        NAMA OPERATOR         |    SIMBOL   |              KETERANGAN              |
+=====================================================================================
+|        Alamat Memori         |      &      |     untuk mengambil alamat memori    |
+-------------------------------------------------------------------------------------
+|           Pointer            |      *      |         untuk membuat pointer        |
+-------------------------------------------------------------------------------------
+|           Ternary            |     ? :     |         untuk membuat kondisi        |
+-------------------------------------------------------------------------------------
+|          Increment           |     ++      |            untuk menambah 1          |
+-------------------------------------------------------------------------------------
+|          Decrement           |     --      |           untuk mengurangi 1         |
+-------------------------------------------------------------------------------------
