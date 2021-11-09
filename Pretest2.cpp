@@ -2,13 +2,6 @@
 #include <conio.h>
 using namespace std;
 int main (){
-		
-/* 
-   NAMA  : JIHAN HAYA MUFIALDO
-   NPM   : 2117051095
-   KELAS : B
-*/
-
 
 /* COLOR 1 : BIRU TUA
    COLOR 2 : HIJAU
