@@ -11,7 +11,7 @@ int main (){
 	float a,b,c;   
 	
 	/* ket : a = jumlah bitcoin dibeli
-             b = harga pembelian
+                 b = harga pembelian
 	         c = harga saat ini        
 	*/
 
