@@ -3,16 +3,6 @@
 using namespace std;
 int main (){
 
-/* COLOR 1 : BIRU TUA
-   COLOR 2 : HIJAU
-   COLOR 3 : BIRU MUDA
-   COLOR 4 : MERAH
-   COLOR 5 : UNGU
-   COLOR 6 : ORANYE
-   COLOR 7 : PUTIH
-   COLOR 8 : ABU-ABU  
-*/
-
 system ("COLOR 3");
 double x;
 
