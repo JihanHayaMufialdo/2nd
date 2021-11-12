@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float d1,d2,s1,s2;
 	
 	cout << "\n----- LAYANG-LAYANG -----\n\n";
