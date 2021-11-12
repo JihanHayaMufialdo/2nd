@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float s,d1,d2;
 	
 	cout << "\n----- BELAH KETUPAT -----\n\n";
