@@ -13,6 +13,6 @@ int main (){
 	cout << "tinggi (m)  : ";
 	cin  >> t;
 	
-	cout << "\nLuas Permukaan  : " << 2*(p*l + p*t + l*t)<< " m^2\n";
-	cout << "Volume\t\t: " << p*l*t << " m^3";
+	cout << "\nLuas Permukaan  : " << 2*(p*l + p*t + l*t)<< " m^2";
+	cout << "\nVolume\t\t: " << p*l*t << " m^3";
 }
