@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float a,t,s1,s2;
 	
 	cout << "\n------ SEGITIGA ------\n\n";
