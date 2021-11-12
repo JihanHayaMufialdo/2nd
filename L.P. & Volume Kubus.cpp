@@ -9,7 +9,7 @@ int main (){
 	cout << "sisi (m)       : ";
 	cin  >> s; 
 	
-	cout << "\nLuas Permukaan  : " << 6*(s*s)<< " m\n";
-	cout << "Volume\t\t: " << s*s*s << " m^2";
+	cout << "\nLuas Permukaan  : " << 6*(s*s)<< " m^2";
+	cout << "\nVolume\t\t: " << s*s*s << " m^3";
 
 }
