@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float p,l;
 	
 	cout << "\n---- PERSEGI PANJANG ----\n\n";
