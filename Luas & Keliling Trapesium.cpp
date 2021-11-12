@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+	
 	float a,b,t,s;
 	
 	cout << "\n------ TRAPESIUM ------\n\n";
