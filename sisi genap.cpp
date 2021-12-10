@@ -12,8 +12,9 @@ int main(){
 	if (s%2!=0){
 		cout << "\nsisi persegi bukan bilangan genap\n";
 	}
-	
-	
-	
-	
+	else{
+		cout << "\n\nLuas\t: " << s*s;
+		cout << "\nVolume\t: " << s*s*s;
+		cout << "\n";
+	}
 }
