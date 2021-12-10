@@ -9,6 +9,11 @@ int main(){
 	cout << "sisi : ";
 	cin >> s;
 	
+	if (s%2!=0){
+		cout << "\nsisi persegi bukan bilangan genap\n";
+	}
+	
+	
 	
 	
 }
