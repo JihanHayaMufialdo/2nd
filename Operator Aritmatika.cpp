@@ -3,6 +3,10 @@ using namespace std;
 
 int main(){
 	
+	int a = 62;
+	int b = 15;
+	int c = -25;
+	int jumlah,kurang,kali,bagi,mod;
 	
 	//penjumlahan
 	jumlah = b+c;
