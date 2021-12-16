@@ -3,7 +3,9 @@ using namespace std;
 
 int main(){
 	
-	
+	int x ;
+	int y ;
+	int z ;
 	
 	cout << "Masukkan angka 1,2,3\n";
 	cin >> x >> y >> z;
