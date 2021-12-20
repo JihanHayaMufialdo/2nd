@@ -10,4 +10,6 @@ int main(){
 	cout << "x = ";
 	cin >> x;
 	
+	cout << "f(" << x << ") = " << 2*(x*x*x)
+	
 }
