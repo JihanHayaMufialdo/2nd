@@ -11,7 +11,7 @@ int main(){
 	cout << "t = ";
 	cin  >> t;
 	
-	cout << "\nLuas Permukaan  : " << phi*r*r*t << " m^2";
+	cout << "\nLuas Permukaan  : " << phi*r*r+2*phi*r*t << " m^2";
 	cout << "\nVolume\t\t: " << 2*phi*r*(r+t) << " m^3";
 	
 }
